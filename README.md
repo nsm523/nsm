@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @graylife523
-- 👀 I’m interested in network and security
-- 🌱 I’m currently learning python
-- 📫 How to reach me me52313911@gmail.com
+- 👀 I’m interested in web design and development 
+- 🌱 I’m currently learning something. Don't ask 😌 
+- 📫 How to reach me graylife523@gmail.com
 
 <!---
 graylife523/graylife523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
