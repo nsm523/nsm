@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @graylife523
+- 👋 Hi, I’m @nasim aka nsm
 - 👀 I’m interested in web design and development
 - 🌱 I’m currently learning html,css,js 
 - 📫 How to reach me graylife523@gmail.com
